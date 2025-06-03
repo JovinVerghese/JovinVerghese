@@ -5,8 +5,12 @@ I recently graduated with a degree in Computer Science and have a stong passion 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as an Offensive Security Professional.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become an Offensive Security Professional.
 
 ## Skills
 
-Currently doing the Linux Fundamentals Module in Hack The Box and participating in several Capture The Flag platforms. Since my project at college was a web based task management system, I have some experience in web development and Python. Still working hard to increase my knowledge in the fields I am most interested in and especially in the field of Cyber Security.
+- Currently doing the Linux Fundamentals module on Hack The Box.  
+- Participating in several Capture The Flag platforms.  
+- College project: Web-based task management system, giving me some experience in web development.  
+- Experienced in Python.  
+- Constantly working to increase my knowledge, especially in the field of Cyber Security.
