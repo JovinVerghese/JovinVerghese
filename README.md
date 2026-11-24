@@ -1,7 +1,7 @@
 # Hello, I'm Jovin Verghese
 <a href="https://www.linkedin.com/in/jovin-verghese-a2364b357/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I recently graduated with a degree in Computer Science and have a stong passion for technology, especially in the field of Cyber Security.
+I recently graduated with a degree in Computer Science and have a strong passion for technology, especially in the field of Cyber Security.
 
 ## Objective
 
